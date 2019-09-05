@@ -1,0 +1,44 @@
+body{
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width: 50%;
+	margin: 15px auto;
+	/*margin: 10px 100px 10px 100px;*/
+	padding: 20px;
+	font-family: Source Sans Pro;
+	font-size: 10px;
+
+}
+
+.date{
+	text-transform: uppercase;
+	color: #3498db;
+	/*font-family: Source Sans Pro;*/
+	font-weight: 700;
+	letter-spacing: 3px;
+	font-size: 1.5em;
+}
+
+h2{
+	/*font-family: Source Sans Pro;*/
+	color: #2c3e50;
+	font-size: 2.5em;
+
+}
+
+p{
+	/*font-family: Source Sans Pro;*/
+	font-size: 1.3em;
+	font-weight: 400;
+
+}
+
+.first{
+	/*margin-left: 5px;*/
+	padding-left: 5px;
+	border-left: 5px solid #bdc3c7;
+}
+
+hr{
+	border-top: 1px solid #bdc3c7;
+}
